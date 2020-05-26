@@ -1,0 +1,17 @@
+body {
+    background: coral;
+    color: white;
+  }
+  h1 {
+    font-family: "Raleway", sans-serif;
+    color: white;
+    text-align: center;
+    text-decoration: underline;
+  }
+  .friend {
+    background: coral;
+  }
+  
+  h3 {
+    text-transform: lowercase;
+  }
